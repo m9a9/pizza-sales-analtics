@@ -53,7 +53,7 @@ The following insights were extracted from the pizza sales data:
 
 ## 🖼 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard/dashboard.png)
+![Pizza Sales Dashboard](dashboard.png)
 
 ---
 
